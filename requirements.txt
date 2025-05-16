@@ -1,0 +1,3 @@
+streamlit==1.40.1
+requests
+git+https://github.com/Josh-XT/AGiXT-SDK.git@main
